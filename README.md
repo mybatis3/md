@@ -12,7 +12,7 @@ Markdown 文档自动即时渲染为微信图文，让你不再为微信文章�
 
 ## 在线编辑器地址
 
-http://md.mybatis.io/
+https://md.mybatis.io/
 
 ## 功能特性
 - [x] 支持 Markdown 所有基础语法
